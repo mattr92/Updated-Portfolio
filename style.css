@@ -1,0 +1,99 @@
+nav {
+    padding: 1%;
+    padding-right: 2%;
+    padding-left: 2%;
+    background-color: #2d327c;
+    color: cornsilk;
+    
+}
+
+nav {
+    padding: 1%;
+    padding-right: 2%;
+    padding-left: 2%;
+    background-color: #303257;
+    
+}
+
+.level-item img {
+    max-height: none;
+    height: 65px;
+    width: 70px;
+}
+
+nav h1 {
+    font-size: 1.5rem;
+    font-family: 'Roboto Slab', sans-serif;
+    background-color: inherit;
+    color: inherit;
+}
+
+nav a, a.navbar-link {
+    font-size: 1.1rem;
+    color:cornsilk;
+    margin-left: 25px;
+    font-family: 'Roboto Slab', sans-serif ;
+}
+
+#profile-pic {
+    border-radius: 50%;
+    overflow: hidden;
+
+}
+
+.brain {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("brainscan.png");
+
+
+}
+
+.column {
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    font-size: 2em;
+  -webkit-box-shadow: -7px 11px 25px -9px rgba(0,0,0,1);
+  -moz-box-shadow: -7px 11px 25px -9px rgba(0,0,0,1);
+  box-shadow: -7px 11px 25px -9px rgba(0,0,0,1);
+  }
+  
+  .column p {
+    background: #2d327c;
+    color:cornsilk;
+  }
+  
+  .brand {
+    min-height: 3rem;
+    background: #2d327c;
+    font-family: 'Roboto Slab', sans-serif
+  }
+  
+  .brand-title, .brand-title:hover, .brand-title:focus {
+    color: cornsilk;
+    font-size: 1.5em;
+    text-align: center;
+    margin-left: 0.6rem;
+    text-transform: uppercase;
+    font-family: 'Roboto Slab', sans-serif
+  }
+  
+  .img1 {
+    background: url('passgen.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+
+.img2 {
+    background: url('brewsearch.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.content {
+    background-color: #2d327c;
+    color: cornsilk;
+}
